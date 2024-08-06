@@ -13,6 +13,9 @@
 3. **1で登録したブックマークレットを実行すると、グラフに表示される。**
    - ブラウザのブックマークから、1で作成したブックマークレットを開きます。
    - 選択したデータがグラフとして表示されます。横軸は経過日数となっています。
+   - copy imageボタンを押すとグラフをコピーすることができます。
+   - ARENA RANKやSKILL LEVELなどには未対応です。
    
-   ![image](https://github.com/user-attachments/assets/89846948-d816-4b33-b00c-489cd32f2ada)
+![image](https://github.com/user-attachments/assets/a05ba283-04e8-4d48-b75c-b55d320a4a7e)
+
 
